@@ -1,5 +1,5 @@
 # Super Mario Expanded Remastered
-A remastered version of a game I made 2 years ago
+A remastered version of a game I made 2 years ago.
 An update is coming that will add more levels, with new gimmicks, and possibly more gamemodes.
 
 ## Controls
