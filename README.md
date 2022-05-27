@@ -1,7 +1,6 @@
 # Super Mario Expanded Remastered
 A remastered version of a game I made 2 years ago
-
-**Audio system is being reworked with more bugfixes and patches for the release.**
+An update is coming that will add more levels, with new gimmicks, and possibly more gamemodes.
 
 ## Controls
 * WSAD, Arrow Keys - Move
